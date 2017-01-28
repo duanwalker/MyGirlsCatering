@@ -2,8 +2,9 @@
 /* GLOBAL STYLES
 -------------------------------------------------- */
 /* Padding below the footer and lighter body text */
-html{
+html,body{
   height: 100%;
+  width: 100%;
   margin: 0;
   padding: 0;
 }
