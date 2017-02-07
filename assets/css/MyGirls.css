@@ -207,7 +207,7 @@ text-shadow: 0px 1px 1px darkgrey;
   margin-bottom:5px;
   border-radius: 0.5rem;
 }
-.newUserForm p{
+.newUserForm label{
      font-size:0.90em;
      padding-left: 8px;
      padding-top:8px;
