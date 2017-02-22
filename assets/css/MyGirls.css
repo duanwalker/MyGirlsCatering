@@ -66,9 +66,12 @@ body {
 .carousel-caption > h1{
   font-size:45px;
 font-family: 'Lobster', 'Pacifico';
-text-shadow: 0px 1px 1px darkgrey;
+text-shadow: 0px 2px 1px black;
 }
-
+.carousel-caption > p{
+   
+text-shadow: 0px 1px 2px black;
+}
 /* Declare heights because of positioning of img element */
 .carousel .item {
   height: 1000px;
